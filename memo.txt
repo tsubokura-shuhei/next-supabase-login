@@ -1,0 +1,2 @@
+続き、状態管理のページ先頭から
+https://zenn.dev/hathle/books/next-supabase-auth-book/viewer/10_store
